@@ -16,10 +16,10 @@ const app = Vue.createApp({
             console.log(results)
 
             this.firstName = 'Joy',
-                this.lastName = 'Smith',
-                this.email = 'joy@gmail.com',
-                this.gender = 'female',
-                this.picture = 'https://randomuser.me/api/portraits/women/10.jpg'
+            this.lastName = 'Smith',
+            this.email = 'joy@gmail.com',
+            this.gender = 'female',
+            this.picture = 'https://randomuser.me/api/portraits/women/10.jpg'
         },
     }
 })
